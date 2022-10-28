@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leal-kun
 - 👀 I’m interested in programming, gaming (LoL), Anime.
-- 🌱 I’m currently learning C, C#, .NET
+- 🌱 I’m currently learning C, C#, .NET, SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leal7448@gmail.com
 
